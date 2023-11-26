@@ -1,6 +1,6 @@
  hiii, I’m @bereniceru :D
- im a computer science & engineering major with a minor in stats
- im interested in AI and fun programming projects
+ im a computer science & engineering major with a minor in statistics.
+ im interested in AI/machine learning and i do backend programming :3
 
 <!---
 bereniceru/bereniceru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
